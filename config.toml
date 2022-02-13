@@ -6,6 +6,7 @@ DefaultContentLanguage = "ja"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
+publishDir = "docs"
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
 #hasCJKLanguage = true
