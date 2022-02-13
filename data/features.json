@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Twitter",
+    "description": "Record of daily activities of members.",
+    "icon": "icon-twitter",
+    "link": "https://twitter.com/hgu_ns"
+  },
+  {
+    "title": "Facebook",
+    "description": "See club activities and photos.",
+    "icon": "icon-facebook"
+  },
+  {
+    "title": "Github",
+    "description": "Please look the Github repository",
+    "icon": "icon-github",
+    "link": "https://github.com/hgu-science"
+  }
+]
