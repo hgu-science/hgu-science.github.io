@@ -10,6 +10,8 @@ tags = [
 
 ## 自然科学部について
 
+![集合写真](/static/img/blog/group-photo.jpeg)
+
 現在自然科学部に興味のある学生さんを募集しています！
 
 興味がある方は、 [Twitter](https://twitter.com/HGU_Ns) までお気軽にご連絡ください。部員一同大歓迎です！
