@@ -10,7 +10,7 @@ tags = [
 
 ## 自然科学部について
 
-![集合写真](/static/img/blog/group-photo.jpeg)
+![集合写真](/img/blog/group-photo.jpg)
 
 現在自然科学部に興味のある学生さんを募集しています！
 
