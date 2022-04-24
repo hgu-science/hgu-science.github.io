@@ -2,7 +2,9 @@
 author = "自然科学部"
 title = "自然科学部からのあいさつ"
 date = "2022-04-24"
-description = "顧問と部長からのあいさつと、連絡先等"
+image = "img/blog/group-photo.jpg"
+weight = 100
+description = "顧問と部長からのあいさつ"
 tags = [
     "greeting",
 ]
