@@ -22,8 +22,8 @@ publishDir = "docs"
   mainSections = ['blog']
 
   [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    main = "img/logo/logo.png"
+    alt = "HGU natural science club logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
@@ -37,11 +37,11 @@ publishDir = "docs"
     fa5 = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "北海学園大学自然科学部"
+    meta_description = "北海学園大学 自然科学部 Web"
+    meta_og_title = "北海学園大学 自然科学部"
     meta_og_type = "website"
     meta_og_url = "https://twitter.com/hgu_ns"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
+    meta_og_image = "https://hgu-science.github.io/img/logo/hgu-science.png"
     meta_og_description = "北海学園大学 自然科学部"
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username"
@@ -80,7 +80,7 @@ publishDir = "docs"
       weight = 1
 
   [[menu.footer]]
-    name = "Github"
+    name = "GitHub"
     url = "https://github.com/hgu-science/hgu-science.github.io"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2
