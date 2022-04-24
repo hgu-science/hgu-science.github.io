@@ -1,3 +1,3 @@
 +++
-author = "Hugo Authors"
+author = "自然科学部"
 +++
