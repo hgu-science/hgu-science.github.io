@@ -1,9 +1,6 @@
 name: Hugo
 
-on:
-  push:
-    branches:
-      - main # Set a branch name to trigger deployment
+on: push
 
 jobs:
   deploy:
