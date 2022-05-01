@@ -27,6 +27,3 @@ jobs:
 
       - name: Build
         run: hugo --minify
-
-      - name: Test
-        run: hugo deploy --dryRun
