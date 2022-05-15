@@ -10,7 +10,8 @@
     "start": "concurrently npm:watch:*",
     "watch:tw": "tailwindcss -i ./themes/tella/assets/css/main.css -o ./themes/tella/assets/css/style.css --watch",
     "watch:hugo": "hugo server",
-    "build": "tailwindcss -i ./themes/tella/assets/css/main.css -o ./themes/tella/assets/css/style.css && hugo --minify"
+    "build": "tailwindcss -i ./themes/tella/assets/css/main.css -o ./themes/tella/assets/css/style.css && hugo --minify",
+    "fmt": "prettier --write **/*.md"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.1",
@@ -18,6 +19,6 @@
     "concurrently": "^7.0.0",
     "postcss": "^8.4.6",
     "postcss-cli": "^9.1.0",
-    "tailwindcss": "^3.0.21"
+    "prettier": "^2.6.2"
   }
 }
