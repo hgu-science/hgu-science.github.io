@@ -1,8 +1,8 @@
 +++
 author = "自然科学部"
 title = "班の紹介(Unity班編)"
-date = "2022-05-01"
-image = "img\blog\unity introduction.png"
+date = "2022-05-15"
+image = "static\img\blog\activity.jpg"
 weight = 100
 description = "班の紹介"
 tags = [
