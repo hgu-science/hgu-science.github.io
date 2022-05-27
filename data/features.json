@@ -1,5 +1,11 @@
 [
   {
+    "title": "Instagram",
+    "description": "Photo of daily activities.",
+    "icon": "icon-instagram",
+    "link": "https://twitter.com/hgu_ns"
+  },
+  {
     "title": "Twitter",
     "description": "Record of daily activities of members.",
     "icon": "icon-twitter",
