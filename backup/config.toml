@@ -1,0 +1,86 @@
+baseURL = "https://hgu-science.github.io"
+title = "自然科学部"
+author = "HGU natural science club"
+languageCode = "ja"
+DefaultContentLanguage = "ja"
+enableInlineShortcodes = true
+theme = "tella"
+enableRobotsTXT = true
+publishDir = "docs"
+
+# Please enable this feature if the site is available in Japanese, Chinese or Korean.
+#hasCJKLanguage = true
+
+# If you're using Google Analytics, you can enable this feature.
+#googleAnalytics = "UA-12345678-1"
+
+# Disqus Comment System
+#disqusShortname = ""
+
+[params]
+
+  mainSections = ['blog']
+
+  [params.logo]
+    main = "img/logo/logo.png"
+    alt = "HGU natural science club logo"
+
+    # The size parameter is the class name of tailwindcss
+    # https://tailwindcss.com/
+    size = "h-14"
+
+  [params.site]
+    name = "自然科学部"
+
+  [params.icon]
+    #If you want to use FontAwesome, set this parameter to true.
+    fa5 = true
+
+  [params.homepage_meta_tags]
+    meta_description = "北海学園大学 自然科学部 Web"
+    meta_og_title = "北海学園大学 自然科学部"
+    meta_og_type = "website"
+    meta_og_url = "https://twitter.com/hgu_ns"
+    meta_og_image = "https://hgu-science.github.io/img/logo/logo.png"
+    meta_og_description = "北海学園大学自然科学部のWebサイトです"
+    meta_twitter_card = "summary_large_image"
+    meta_twitter_site = "@username"
+    meta_twitter_creator = "@username"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "products"
+    name = "Products"
+    url = "/products/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+      weight = 1
+
+  [[menu.footer]]
+    name = "GitHub"
+    url = "https://github.com/hgu-science/hgu-science.github.io"
+    pre = "<i class='icon-github text-2xl'></i>"
+      weight = 2
